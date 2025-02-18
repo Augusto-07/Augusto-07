@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edward Guzman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MkBawZAAAAAi/busy-cute.gif" />
-<img src="https://media.giphy.com/media/OBnTW6UZvY6KQ/giphy.gif" width="30px">&nbsp;**About Me**
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPE5TO6RHexqGUJyV-7OigswPCgHHs8mh0A&s" width="30px">&nbsp;**About Me**
 
 I am a computer systems engineering student who knows Python, I like graphic design and I use Adobe Illustratory and some After Effects.
   
