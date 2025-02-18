@@ -2,7 +2,7 @@
 
 <img align="right" width="300px" alt="Unicorn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPE5TO6RHexqGUJyV-7OigswPCgHHs8mh0A&s" />
 <span style="vertical-align: middle;">
-    <img src="https://media.giphy.com/media/OBnTW6UZvY6KQ/giphy.gif" width="30px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaw5061ZN0aLbHnBGSx8vMqAOvaV3bLU-Wqw&s" width="30px">
 </span>&nbsp;<span>**About Me**</span>
 
 
