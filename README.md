@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Edward Guzman <img src="" width="35"></h1>
 
-<img align="right" width="300px" alt="Unicorn" src="https://chatgpt.com/c/67b4d899-61f0-8002-994b-f91d05d3d982" />
+<img align="right" width="300px" alt="Unicorn" src="https://static.vecteezy.com/system/resources/previews/024/734/340/non_2x/cartoon-illustration-of-two-bananas-vector.jpg" />
 <span style="vertical-align: middle;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtXWieRXRZxX5s3HRXhKSakpTxytjhwukyg&s" width="30px">
 </span>&nbsp;<span>About Me</span>
