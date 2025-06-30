@@ -1,25 +1,31 @@
 <h1 align="center">👋 Hola, soy Edward Guzman</h1>
 
-<img align="right" src="[./30fe107f-9442-44fe-898e-00f3a76ae2b6.png](https://images.app.goo.gl/5TEENBmVuJhXHtmC7)" width="250"/>
+
 
 ## 🌟 Acerca de mí
 
-🎓 Soy estudiante de **Ingeniería en Sistemas Computacionales**.
+🎓Soy estudiante de **Ingeniería en Sistemas Computacionales**, con enfoque en **Ingeniería de Software** e **Inteligencia Artificial**.
 
-💻 Sé programar en **Python**, me gusta el **diseño gráfico** y uso herramientas como **Adobe Illustrator** y algo de **After Effects**.
+💻 Me apasiona el desarrollo de software, sé programar en **Python**, y estoy aprendiendo **Java** y **React.js**.  
+🧠 También estoy explorando el mundo de la **IA**, especialmente temas como redes neuronales, aprendizaje automático y procesamiento de datos con `scikit-learn`, `TensorFlow` y `Pandas`.
+
+🎨 Además, disfruto el **diseño gráfico**, trabajo con **Adobe Illustrator** y tengo algo de experiencia con **After Effects**.  
 
 🎯 Interesado en: 
 - Desarrollo Web
-- Desarrollo Android
+- Ciencia de Datos 
 - Marketing Digital
 
 ---
 
-## 🚀 Actualmente aprendiendo...
+## 🚀 Habilidades Tecnicas...
 
 - ☕ Java  
-- ⚛️ React JS  
-
+- ⚛️ React JS
+- 🐍 Python
+- 🧠 Fundamentos de inteligencia artificial
+- 📊 Datos: Pandas, NumPy
+- ⚙️ Backend: Python, FastAPI, Django
 ---
 
 ## 🤝 Me encantaría colaborar en...
@@ -46,6 +52,6 @@
 
 <br>  
 
-- 📫 Reach out to me at: <a href="mailto:augustoguzman183@gmail.com.iiit.ac.in">augustoguzman183@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:augustoguzman183@gmail.com.iiit.ac.in"> augustoguzman183@gmail.com</a>
 
 
